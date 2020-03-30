@@ -25,14 +25,14 @@ Other features:
 * Compatible with Elementor Page Builder
 
 <h2>Required WordPress Version</h2>
-Requires at least: 4.0
+Requires at least: 4.0 <br>
 Tested up to: 5.3.2
 
 <h2>self-branding</h2>
 It's a themeforest standard starter theme can easily be modified for self-branding.
-<strong>The processes have been given below:</strong>
-* Theme name and text domain is "<strong>wpbstarter</strong>".
-* Replace the keyword "<strong>wpbstarter</strong>" with your own theme name and text domain. 
+<strong>The processes have been given below:</strong><br>
+* Theme name and text domain is "<strong>wpbstarter</strong>". <br>
+* Replace the keyword "<strong>wpbstarter</strong>" with your own theme name and text domain. <br>
 Note: [ You can use "sublime text" editor to replace the keyword "<strong>wpbstarter</strong>" from all files at a time. ]
 
 <strong>Thanks to - 
