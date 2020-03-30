@@ -29,7 +29,7 @@ Requires at least: 4.0 <br>
 Tested up to: 5.3.2
 
 <h2>self-branding</h2>
-It's a themeforest standard starter theme can easily be modified for self-branding.
+It's a themeforest standard starter theme can easily be modified for self-branding.<br><br>
 <strong>The processes have been given below:</strong><br>
 * Theme name and text domain is "<strong>wpbstarter</strong>". <br>
 * Replace the keyword "<strong>wpbstarter</strong>" with your own theme name and text domain. <br>
