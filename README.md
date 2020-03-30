@@ -34,10 +34,10 @@ It's a themeforest standard starter theme can easily be modified for self-brandi
 Theme name and text domain is "<strong>wpbstarter</strong>".
 Replace the keyword "<strong>wpbstarter</strong>" with your own theme name and text domain. [ You can use "sublime text" editor to replace the keyword "<strong>wpbstarter</strong>" from all files at a time. ]
 
-<strong>Thanks to,
-  underscore
-  bootstrap
-  fontawesome
-  pattonwebz
-  cristian-ungureanu
+<strong>Thanks to - 
+  underscore,
+  bootstrap,
+  fontawesome,
+  pattonwebz,
+  cristian-ungureanu,
   wp-starter-theme</strong>
