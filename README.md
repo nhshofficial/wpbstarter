@@ -28,11 +28,12 @@ Other features:
 Requires at least: 4.0
 Tested up to: 5.3.2
 
+<h2>self-branding</h2>
 It's a themeforest standard starter theme can easily be modified for self-branding.
 <strong>The processes have been given below:</strong>
-
-Theme name and text domain is "<strong>wpbstarter</strong>".
-Replace the keyword "<strong>wpbstarter</strong>" with your own theme name and text domain. [ You can use "sublime text" editor to replace the keyword "<strong>wpbstarter</strong>" from all files at a time. ]
+* Theme name and text domain is "<strong>wpbstarter</strong>".
+* Replace the keyword "<strong>wpbstarter</strong>" with your own theme name and text domain. 
+Note: [ You can use "sublime text" editor to replace the keyword "<strong>wpbstarter</strong>" from all files at a time. ]
 
 <strong>Thanks to - 
   underscore,
