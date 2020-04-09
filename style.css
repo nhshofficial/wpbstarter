@@ -608,13 +608,13 @@ body:not(.theme-preset-active) #masthead .navbar-nav > li.current_page_item > a 
 # Alignments
 --------------------------------------------------------------*/
 .alignleft {
-  display: inline;
+  display: inline-block;
   float: left;
   margin-right: 1.5em;
 }
 
 .alignright {
-  display: inline;
+  display: inline-block;
   float: right;
   margin-left: 1.5em;
 }
@@ -995,6 +995,7 @@ object {
     padding: 80px 0px;
 }
 .wpbstarter-blog-list {
+  display: inline-block;
 }
 
 .widget-area .widget {
