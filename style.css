@@ -995,7 +995,7 @@ object {
     padding: 80px 0px;
 }
 .wpbstarter-blog-list {
-  display: inline-block;
+  display: block;
 }
 
 .widget-area .widget {
@@ -1046,6 +1046,10 @@ object {
 
 .entry-meta {
     margin-bottom: 15px;
+}
+
+.wp-block-embed {
+  overflow-x: auto;
 }
 
 .entry-footer {
